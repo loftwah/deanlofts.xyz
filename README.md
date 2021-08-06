@@ -1,2 +1,3 @@
 # deanlofts.xyz
-Repo for this domain
+
+Please visit [lofts.sh](https://lofts.sh), this domain is for internal use only.
